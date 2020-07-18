@@ -12,7 +12,7 @@ TEMPLATE MULTI-FILE
 Expected Result
 ------------------
 
-![log print](output.png)
+![log print](tp1.png)
 
 
 Comments
