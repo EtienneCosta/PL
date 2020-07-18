@@ -12,7 +12,7 @@ TEMPLATE MULTI-FILE
 Expected Result
 ------------------
 
-![log print](output.png)
+![log print](https://github.com/EtienneCosta/PL/tree/master/TP1/output.png)
 
 
 Comments
