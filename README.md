@@ -2,7 +2,7 @@
 
 Flex & Yacc .
 
-TEMPLATE MULTI-FILE
+TEMPLATE MULTI-FILE (TP1)
 ========
 
 * Para vários projectos de software, é habitual soluções envolvendo vário ficheiros, várias pastas. Exemplo : um ficheiro, uma makefile, um manual , uma pasta de exemplos, etc.
@@ -14,7 +14,7 @@ Expected Result
 
 ![log print](tp1.png)
 
-Conversor de GEDCOM
+Conversor de GEDCOM (TP2)
 ========
 
 * Neste projecto, pretende-se que se desenvolva um conversor de GEDCOM 5.5 para XML/HTML de modo a poder mostrar de imediato numa página Web a árvore genealógica .
