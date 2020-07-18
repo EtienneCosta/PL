@@ -14,7 +14,26 @@ Expected Result
 
 ![log print](tp1.png)
 
+Conversor de GEDCOM
+========
 
-Comments
-------------
-* The number of threads and points are preponderant in two ways, the more points you have the more accurate it turns out to be, ie, the estimated value of pi is closer to the real value, and that the number of threads has a significant impact on the time of execution.
+* Neste projecto, pretende-se que se desenvolva um conversor de GEDCOM 5.5 para XML/HTML de modo a poder mostrar de imediato numa página Web a árvore genealógica .
+
+
+Home Page
+------------------
+
+![log print](index.png)
+
+
+Individual
+------------------
+
+![log print](individual.png)
+
+
+Family
+------------------
+
+![log print](family.png)
+
